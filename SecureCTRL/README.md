@@ -20,7 +20,7 @@ SecureCTRL is a lightweight, encrypted command and control (C2) framework writte
 1. Clone this repository:
 
 
-#**Lightweight and Easily Modifiable for Your Own Use**
+## Lightweight and Easily Modifiable for Your Own Use
 
 This tool is designed primarily for local use on your own machine or private network as a hands-on learning, development, and testing platform. It offers realistic and practical applications such as:
 
